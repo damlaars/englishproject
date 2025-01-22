@@ -80,7 +80,7 @@ class GirisSayfasi extends StatelessWidget {
                 'Başla',
                 style: TextStyle(
                   fontSize: 18,
-                color: Colors.black,  // Yazının rengini beyaz yapıyoruz
+                color: Colors.black,  // Yazının rengini siyah yapıyoruz
                 ),
               ),
             ),
